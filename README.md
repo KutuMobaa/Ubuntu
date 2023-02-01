@@ -1,3 +1,7 @@
 # Ubuntu
 Ubuntu in termux
-how to run ??
+
+
+# how to run ??
+#$ chmod +x run.sh
+#$ ./run.sh
