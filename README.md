@@ -7,7 +7,7 @@ Ubuntu in termux
 # $ pkg upgrade
 # $ pkg install git
 # $ git clone https://github.com/KutuMobaa/Ubuntu
-# $ cd ubuntu
+# $ cd Ubuntu
 # $ chmod +x run.sh
 # $ ./run.sh
 
