@@ -10,3 +10,6 @@ Ubuntu in termux
 # $ cd ubuntu
 # $ chmod +x run.sh
 # $ ./run.sh
+
+
+*input in the order in the menu to avoid errors, bugs and so on
