@@ -12,4 +12,6 @@ Ubuntu in termux
 # $ ./run.sh
 
 
-*input in the order in the menu to avoid errors, bugs and so on
+* input in the order in the menu to avoid errors, bugs and so on
+#
+* Jika terjadi bug, laporkan di dalam grub telegram
